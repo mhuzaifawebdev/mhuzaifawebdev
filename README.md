@@ -34,11 +34,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mhuzaifawebdev&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### ✍️ Quote of the Day
 > “Great code is like great poetry — simple, elegant, and leaves no room for confusion.”
 
