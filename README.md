@@ -28,14 +28,14 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadHuzaifa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHuzaifa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHuzaifa&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mhuzaifawebdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifawebdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhuzaifawebdev&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadHuzaifa&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mhuzaifawebdev&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -44,4 +44,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MuhammadHuzaifa&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mhuzaifawebdev&icon=0&color=0)](https://visitcount.itsvg.in)
