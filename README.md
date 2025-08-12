@@ -35,7 +35,7 @@
 ---
 
 ### ✍️ Quote of the Day
-> “Great code is like great poetry — simple, elegant, and leaves no room for confusion.”
+> “Frontend is where design meets logic and becomes magic”
 
 ---
 
