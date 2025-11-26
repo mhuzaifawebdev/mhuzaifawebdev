@@ -28,9 +28,8 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mhuzaifawebdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifawebdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhuzaifawebdev&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=mhuzaifawebdev)
+
 
 ---
 
